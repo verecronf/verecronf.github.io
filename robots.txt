@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://verecronf.github.io/sitemap
+Sitemap: https://verecronf.github.io/app/sitemap
+Sitemap: https://verecronf.github.io/assets/sitemap
+Sitemap: https://verecronf.github.io/css/sitemap
+Sitemap: https://verecronf.github.io/includes/sitemap
+Sitemap: https://verecronf.github.io/item/sitemap
+Sitemap: https://verecronf.github.io/src/sitemap
